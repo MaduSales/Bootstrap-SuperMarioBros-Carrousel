@@ -1,0 +1,24 @@
+.navbar{
+    background-color: rgba(121, 229, 229, 0.574);
+}
+.carousel-item{
+    height: 90vh;
+}
+.carousel-caption{
+    font-weight: 600;
+    color: black;
+    background: rgba(255, 255, 255, 0.691);
+    max-width: fit-content;
+    display: block;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h5{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
